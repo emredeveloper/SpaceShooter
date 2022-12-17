@@ -1,4 +1,4 @@
 # SpaceShooter
-İlk Oyun Projem
+İlk yayınladığım  Oyun Projem
 
 2D oyun projesi
